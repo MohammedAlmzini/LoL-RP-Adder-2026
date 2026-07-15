@@ -1,0 +1,6 @@
+mouse
+mss
+win32api
+pywin32
+numpy
+pillow
